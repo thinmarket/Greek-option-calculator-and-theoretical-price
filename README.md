@@ -31,4 +31,5 @@ Delta, Gamma, Vega, Theta, Rho
 Валюты
 
 Индексы
+<img width="1350" height="2458" alt="2025-09-04_204339" src="https://github.com/user-attachments/assets/7ce33b6f-5871-47eb-a5ba-2694254a558a" />
 
